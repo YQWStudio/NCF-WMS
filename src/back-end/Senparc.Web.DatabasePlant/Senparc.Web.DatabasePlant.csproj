@@ -17,6 +17,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Senparc.Xncf.Accounts\Senparc.Xncf.Accounts.csproj" />
+		<ProjectReference Include="..\YQWStudio.Xncf.OrganizationUnit\YQWStudio.Xncf.OrganizationUnit.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
