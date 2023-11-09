@@ -19,4 +19,8 @@
 		<ProjectReference Include="..\Senparc.Xncf.Accounts\Senparc.Xncf.Accounts.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="App_Data\SenparcTraceLog\" />
+	</ItemGroup>
+
 </Project>
